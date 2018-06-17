@@ -23,7 +23,7 @@ class WeatherList extends Component{
 
     render(){
         return(
-            <table className="table table-bordered">
+            <table className="table table-hover">
                 <thead>
                     <tr>
                         <th>City</th>
